@@ -171,7 +171,7 @@ image: /assets/img/logo.png
     <h3>Media Compression</h3>
     <ul>
         <li>Media compression is using media formats that come pre-compressed</li>
-        <li>An Example of this is JPEG and WebM</li>
+        <li>An Example of this is svg and WebM</li>
         <li>This is done when these resources are created/exported, and not by the web server</li>
         <li>Very helpful in content-heavy sites</li>
     </ul>
